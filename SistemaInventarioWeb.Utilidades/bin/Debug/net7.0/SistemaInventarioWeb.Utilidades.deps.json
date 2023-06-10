@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SistemaInventarioWeb.Utilidades/1.0.0": {
+        "runtime": {
+          "SistemaInventarioWeb.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaInventarioWeb.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

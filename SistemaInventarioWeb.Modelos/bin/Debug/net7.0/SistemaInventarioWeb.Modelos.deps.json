@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SistemaInventarioWeb.Modelos/1.0.0": {
+        "dependencies": {
+          "SistemaInventarioWeb.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "SistemaInventarioWeb.Modelos.dll": {}
+        }
+      },
+      "SistemaInventarioWeb.Utilidades/1.0.0": {
+        "runtime": {
+          "SistemaInventarioWeb.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaInventarioWeb.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaInventarioWeb.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
